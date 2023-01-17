@@ -1,5 +1,5 @@
 Project status: **Done**  
-Code & Statistical Test: [**Here**]  
+Code & Statistical Test: [Here](https://github.com/IchfanKurniawan/quantium-intern-project-stats-test/tree/master/code)  
 
 ---  
 ---  
